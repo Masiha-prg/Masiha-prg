@@ -13,8 +13,6 @@ Started my AI/ML journey.
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,github" />
   <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy"/>
