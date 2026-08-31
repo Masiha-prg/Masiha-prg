@@ -27,3 +27,13 @@ Started my AI/ML journey.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Masiha-prg&theme=dark&hide_border=true" />
 </p>
+
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masiha-prg/Masiha-prg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masiha-prg/Masiha-prg/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Masiha-prg/Masiha-prg/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
