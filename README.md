@@ -39,3 +39,9 @@ Started my AI/ML journey.
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Masiha-prg/Masiha-prg/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Masiha-prg/Masiha-prg/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%">
+</p>
