@@ -13,6 +13,17 @@ Started my AI/ML journey.
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,github" />
+  <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="Scikit-learn"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Masiha-prg&theme=dark&hide_border=true" />
 </p>
