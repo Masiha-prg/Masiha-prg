@@ -10,3 +10,9 @@ I'm learning **AI / Machine Learning from the ground up.**
 Started my AI/ML journey. 
 
 > Learn. Build. Repeat. 🚀
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,github" />
+</p>
